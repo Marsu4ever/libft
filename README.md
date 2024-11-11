@@ -1,5 +1,5 @@
 # libft
-library of C functions
+Library of C functions
 
 Mostly simple string manipulation functions.
 
