@@ -1,2 +1,2 @@
 # libft
-library of functions
+library of C functions
